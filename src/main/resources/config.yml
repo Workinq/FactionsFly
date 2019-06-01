@@ -1,0 +1,24 @@
+ENDERPEARL_CHECK: true
+RADIUS: 50.0
+COUNTDOWN_TIME: 3
+ENABLED: true
+
+MESSAGES:
+  NO_PERMISSION: "&c&l(!) &r&cYou do not have permission to use this command."
+  NOT_A_PLAYER: "&c&l(!) &r&cOnly in-game players can use this command."
+  INVALID_ARGUMENTS: "&c&l(!) &r&cInvalid command usage: /fly."
+  FLIGHT_ENABLED: "&a&l(!) &r&aYour flight has been enabled."
+  AUTO_FLIGHT: "&a&l(!) &r&aYour flight has been automatically enabled."
+  FLIGHT_DISABLED: "&c&l(!) &r&cYour flight has been disabled."
+  STEALTH_ENABLED: "&a&l(!) &r&aStealth mode has been enabled."
+  STEALTH_DISABLED: "&c&l(!) &r&cStealth mode has been disabled."
+  NOT_IN_FACTION: "&c&l(!) &r&cYou must be in a faction to use this command."
+  DISALLOWED_LAND: "&c&l(!) &r&cYou are not allowed to fly here."
+  ENEMY_NEARBY: "&c&l(!) &r&cYour flight has been disabled because there is an enemy near."
+  FLIGHT_REMOVED: "&c&l(!) &r&cYour flight will be removed in %seconds% second(s)."
+  ENDERPEARL: "&c&l(!) &r&cYou cannot enderpearl while flying."
+  INVALID_ADMIN_USAGE: "&c&l(!) &r&cInvalid command usage: /flyadmin <setflight | reload> [true | false]"
+  FLIGHT_TEMPORARILY_DISABLED: "&c&l(!) &r&cFlight is temporarily disabled, try again later."
+  CONFIG_RELOADED: "&a&l(!) &r&aThe configuration file was reloaded."
+  SERVER_FLIGHT_ENABLED: "&a&l(!) &r&aServer flight has been enabled."
+  SERVER_FLIGHT_DISABLED: "&c&l(!) &r&cServer flight has been disabled."

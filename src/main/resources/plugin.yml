@@ -1,0 +1,15 @@
+name: ${project.name}
+main: ${project.groupId}.${project.artifactId}
+version: ${project.version}
+author: Kieraaaan
+description: ${project.description}
+depend: [Factions]
+commands:
+  fly:
+    description: Toggles the player's flight on or off.
+    aliases: [ffly]
+    usage: /<command>
+  flyadmin:
+    description: Flight admin commands.
+    aliases: [fflyadmin]
+    usage: /<command>
